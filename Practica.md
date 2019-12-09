@@ -43,13 +43,13 @@ Hacemos SNAT para que los equipos de la LAN puedan acceder al exterior:
 iptables -t nat -A POSTROUTING -s 192.168.100.0/24 -o eth0 -j MASQUERADE
 ~~~
 
-## Permitimos el ssh desde el cortafuego a la LAN
+## Permitir ssh desde el cortafuego a la LAN
 ~~~
 iptables -A OUTPUT -p tcp -o eth1 -d 192.168.100.0/24 --dport 22 -j ACCEPT
 iptables -A INPUT -p tcp -i eth1 -s 192.168.100.0/24 --sport 22 -j ACCEPT
 ~~~
 
-## Permitimos tráfico para la interfaz loopback
+## Permitir tráfico para la interfaz loopback
 ~~~
 iptables -A INPUT -i lo -p icmp -j ACCEPT
 iptables -A OUTPUT -o lo -p icmp -j ACCEPT
