@@ -12,7 +12,7 @@ iptables -Z
 iptables -t nat -Z
 ~~~
 
-## Vamos a permitir ssh al cortafuegosPermalink
+## Permitir ssh al cortafuegos 
 Cómo estamos conectado a la máquina por ssh, vamos a permitir la conexión ssh desde la red 172.22.0.0/16, antes de cambiar las políticas por defecto a DROP, para no perder la conexión:
 ~~~
 iptables -A INPUT -s 172.22.0.0/16 -p tcp -m tcp --dport 22 -j ACCEPT
