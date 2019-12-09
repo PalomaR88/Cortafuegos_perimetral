@@ -10,16 +10,16 @@
 #### 1.5. [SNAT con iptables](https://github.com/PalomaR88/Cortafuegos_perimetral/blob/master/Cortafuegos_perimetral.md#dnat-con-iptables) 
 ---------------------------------------------
 
-## 1. [Implementación de un cortafuegos Perimetral](https://github.com/PalomaR88/Cortafuegos_perimetral/blob/master/Practica.md#implementaci%C3%B3n-de-un-cortafuego-perimetral) 
-#### 1.2. [Esquema de Red](https://github.com/PalomaR88/Cortafuegos_perimetral/blob/master/Practica.md#esquema-de-red) 
-#### 1.3. [Limpieza de las reglas previas](https://github.com/PalomaR88/Cortafuegos_perimetral/blob/master/Practica.md#limpieza-de-las-reglas-previas) 
-#### 1.4. [Permitir ssh al cortafuegos](https://github.com/PalomaR88/Cortafuegos_perimetral/blob/master/Practica.md#Permitir-ssh-al-cortafuegos) 
-#### 1.5. [Política por defecto](https://github.com/PalomaR88/Cortafuegos_perimetral/blob/master/Practica.md#pol%C3%ADtica-por-defecto) 
-#### 1.6. [Activar el bit de forward](https://github.com/PalomaR88/Cortafuegos_perimetral/blob/master/Practica.md#activar-el-bit-de-forward) 
+## 2. [Implementación de un cortafuegos Perimetral](https://github.com/PalomaR88/Cortafuegos_perimetral/blob/master/Practica.md#implementaci%C3%B3n-de-un-cortafuego-perimetral) 
+#### 2.1. [Esquema de Red](https://github.com/PalomaR88/Cortafuegos_perimetral/blob/master/Practica.md#esquema-de-red) 
+#### 2.2. [Limpieza de las reglas previas](https://github.com/PalomaR88/Cortafuegos_perimetral/blob/master/Practica.md#limpieza-de-las-reglas-previas) 
+#### 2.3. [Permitir ssh al cortafuegos](https://github.com/PalomaR88/Cortafuegos_perimetral/blob/master/Practica.md#Permitir-ssh-al-cortafuegos) 
+#### 2.4. [Política por defecto](https://github.com/PalomaR88/Cortafuegos_perimetral/blob/master/Practica.md#pol%C3%ADtica-por-defecto) 
+#### 2.5. [Activar el bit de forward](https://github.com/PalomaR88/Cortafuegos_perimetral/blob/master/Practica.md#activar-el-bit-de-forward) 
 ---------------------------------------------
-## 2. [SNAT](https://github.com/PalomaR88/Cortafuegos_perimetral/blob/master/Practica.md#snat) 
-#### 2.1. [Permitir ssh desde el cortafuegos a la LAN](https://github.com/PalomaR88/Cortafuegos_perimetral/blob/master/Practica.md#PERMITIR-SSH-DESDE-EL-CORTAFUEGO-A-LA-LAN) 
-#### 2.2. [Permitir tráfico para la interfaz loopback](https://github.com/PalomaR88/Cortafuegos_perimetral/blob/master/Practica.md#permitir-tr%C3%A1fico-para-la-interfaz-loopback) 
+## 3. [SNAT](https://github.com/PalomaR88/Cortafuegos_perimetral/blob/master/Practica.md#snat) 
+#### 3.1. [Permitir ssh desde el cortafuegos a la LAN](https://github.com/PalomaR88/Cortafuegos_perimetral/blob/master/Practica.md#PERMITIR-SSH-DESDE-EL-CORTAFUEGO-A-LA-LAN) 
+#### 3.2. [Permitir tráfico para la interfaz loopback](https://github.com/PalomaR88/Cortafuegos_perimetral/blob/master/Practica.md#permitir-tr%C3%A1fico-para-la-interfaz-loopback) 
 
 
 
