@@ -20,6 +20,18 @@
 ## 3. [SNAT](https://github.com/PalomaR88/Cortafuegos_perimetral/blob/master/Practica.md#snat) 
 #### 3.1. [Permitir ssh desde el cortafuegos a la LAN](https://github.com/PalomaR88/Cortafuegos_perimetral/blob/master/Practica.md#PERMITIR-SSH-DESDE-EL-CORTAFUEGO-A-LA-LAN) 
 #### 3.2. [Permitir tráfico para la interfaz loopback](https://github.com/PalomaR88/Cortafuegos_perimetral/blob/master/Practica.md#permitir-tr%C3%A1fico-para-la-interfaz-loopback) 
+#### 3.3. [Peticiones y respuestas protocolo ICMP](https://github.com/PalomaR88/Cortafuegos_perimetral/blob/master/Practica.md#peticiones-y-respuestas-protocolo-icmp) 
+#### 3.4. [Ping a la LAN](https://github.com/PalomaR88/Cortafuegos_perimetral/blob/master/Practica.md#ping-a-la-lan) 
+#### 3.5. [Reglas FORWARD](https://github.com/PalomaR88/Cortafuegos_perimetral/blob/master/Practica.md#reglas-FORWARD) 
+#### 3.6. [Ping desde la LAN](https://github.com/PalomaR88/Cortafuegos_perimetral/blob/master/Practica.md#permitir-hacer-ping-desde-la-lan) 
+#### 3.7. [Consultas y respuestas DNS desde la LAN](https://github.com/PalomaR88/Cortafuegos_perimetral/blob/master/Practica.md#consultas-y-respuestas-dns-desde-la-lan) 
+#### 3.7. [Permitir la navegación web desde la LAN](https://github.com/PalomaR88/Cortafuegos_perimetral/blob/master/Practica.md#permitimos-la-navegaci%C3%B3n-web-desde-la-lan) 
+#### 3.8. [Permitir acceso a nuestro navegador web de la LAN desde el exterior](
+https://github.com/PalomaR88/Cortafuegos_perimetral/blob/master/Practica.md#permitimos-el-acceso-a-nuestro-servidor-web-de-la-lan-desde-el-exterior) 
+---------------------------------------------
+## 4. [Configuración en un solo paso y practica](https://github.com/PalomaR88/Cortafuegos_perimetral/blob/master/Practica.md#configuraci%C3%B3n-en-un-solo-paso) 
+
+
 
 
 
