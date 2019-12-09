@@ -26,8 +26,8 @@
 #### 3.6. [Ping desde la LAN](https://github.com/PalomaR88/Cortafuegos_perimetral/blob/master/Practica.md#permitir-hacer-ping-desde-la-lan) 
 #### 3.7. [Consultas y respuestas DNS desde la LAN](https://github.com/PalomaR88/Cortafuegos_perimetral/blob/master/Practica.md#consultas-y-respuestas-dns-desde-la-lan) 
 #### 3.7. [Permitir la navegación web desde la LAN](https://github.com/PalomaR88/Cortafuegos_perimetral/blob/master/Practica.md#permitimos-la-navegaci%C3%B3n-web-desde-la-lan) 
-#### 3.8. [Permitir acceso a nuestro navegador web de la LAN desde el exterior](
-https://github.com/PalomaR88/Cortafuegos_perimetral/blob/master/Practica.md#permitimos-el-acceso-a-nuestro-servidor-web-de-la-lan-desde-el-exterior) 
+#### 3.8. [Permitir acceso a nuestro navegador web de la LAN desde el exterior](https://github.com/PalomaR88/Cortafuegos_perimetral/blob/master/Practica.md#permitimos-el-acceso-a-nuestro-servidor-web-de-la-lan-desde-el-exterior) 
+
 ---------------------------------------------
 ## 4. [Configuración en un solo paso y practica](https://github.com/PalomaR88/Cortafuegos_perimetral/blob/master/Practica.md#configuraci%C3%B3n-en-un-solo-paso) 
 
