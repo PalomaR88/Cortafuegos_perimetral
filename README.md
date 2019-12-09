@@ -1,4 +1,9 @@
-# [Cortafuegos Perimetral](https://github.com/PalomaR88/Cortafuegos_perimetral/blob/master/Practica.md) 
+# Cortafuegos Perimetral
+##1. [Cortafuegos Personal](https://github.com/PalomaR88/Cortafuegos_perimetral/blob/master/Cortafuegos_perimetral.md#cortafuegos-personal) 
+#### 1.1. [Cadena FORWARD](https://github.com/PalomaR88/Cortafuegos_perimetral/blob/master/Cortafuegos_perimetral.md#cadena-forward) 
+##### 1.1.1. [FORWARD] (https://github.com/PalomaR88/Cortafuegos_perimetral/blob/master/Cortafuegos_perimetral.md#forward) 
+#### 1.2. [SNAT con iptables](https://github.com/PalomaR88/Cortafuegos_perimetral/blob/master/Cortafuegos_perimetral.md#snat-con-iptables) 
+##### 1.2.1. [Source NAT](https://github.com/PalomaR88/Cortafuegos_perimetral/blob/master/Cortafuegos_perimetral.md#source-Nat) 
 
 ## 1. [Implementación de un cortafuegos Perimetral](https://github.com/PalomaR88/Cortafuegos_perimetral/blob/master/Practica.md#implementaci%C3%B3n-de-un-cortafuego-perimetral) 
 #### 1.2. [Esquema de Red](https://github.com/PalomaR88/Cortafuegos_perimetral/blob/master/Practica.md#esquema-de-red) 
@@ -8,5 +13,6 @@
 #### 1.6. [Activar el bit de forward](https://github.com/PalomaR88/Cortafuegos_perimetral/blob/master/Practica.md#activar-el-bit-de-forward) 
 ---------------------------------------------
 ## 2. [SNAT](https://github.com/PalomaR88/Cortafuegos_perimetral/blob/master/Practica.md#snat) 
+
 
 
