@@ -16,7 +16,7 @@ iptables -I FORWARD -p tcp --sport 8080 -s 192.168.0.10/32 -o th0 -i eth1 -j
 ~~~
 
 ## SNAT con iptables
-### source NAR
+### Source NAT
 - Se cambia la dirección origen por la externa del dispositivo de NAT.
 - Se hace como último paso antes de enviar el paquete.
 - Se difinan en la cadena POSTROUTING en la tabla nat.
