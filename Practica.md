@@ -61,7 +61,7 @@ iptables -A OUTPUT -o eth0 -p icmp -j ACCEPT
 iptables -A INPUT -i eth0 -p icmp -j ACCEPT
 ~~~
 
-## Si queremos permitir también los ping a la LAN:
+## Ping a la LAN:
 ~~~
 iptables -A OUTPUT -o eth1 -p icmp -j ACCEPT
 iptables -A INPUT -i eth1 -p icmp -j ACCEPT
